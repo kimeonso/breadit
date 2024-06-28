@@ -4,7 +4,6 @@
 
 React, TypeScript 와 REST API 를 활용한 빵집 탐방 커뮤니티 팀프로젝트입니다.
 
-<br/>
 
 <br/>
 
@@ -28,19 +27,14 @@ React, TypeScript 와 REST API 를 활용한 빵집 탐방 커뮤니티 팀프�
  <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </div>
 <br/>
-<br/>
 
-
-<br/>
 
 ## 와이어프레임
 [FIGMA](https://www.figma.com/file/Mdf4ewn8zhXbhaEbCNZWav/Team_03?type=design&node-id=0-1&mode=design&t=cU5x1zBWzl93Bn6p-0)
 <br/>
-<br/>
-<br/>
+
 
 ## 프로젝트 소개
 
-![브레딧](/uploads/09613b806fdc11e10a998bd3299b92a3/xxx.png)
 <h4>프로젝트 기간 : 2024.03.23 ~ 2024.04.19</h4>
 <br/>
